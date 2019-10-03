@@ -22,9 +22,9 @@ OpBinario → **+** | **-** |  **\***  | **/** | **e** | **ou** | **=** | **<>**
 OpUnario → **-** | **++** | **--** | **nao**<br>
 Número → Inteiro | Decimal<br>
 ## Automato
-![alt text](https://github.com/Eberty/ProjetoCompiladoresEbertyPhiliphe/tree/master/Automato/automato.jpg "Automato")
+![alt text](https://github.com/Eberty/ProjetoCompiladoresEbertyPhiliphe/tree/master/Automato/automato.jpg)
 ## Transition Table
-![alt text](https://github.com/Eberty/ProjetoCompiladoresEbertyPhiliphe/tree/master/Automato/transitionTable.png "Transitions")
+![alt text](https://github.com/Eberty/ProjetoCompiladoresEbertyPhiliphe/tree/master/Automato/transitionTable.png)
 
 ## Input and output
-https://github.com/pharkrum/Compiler-Project-to-Portugol/blob/master/Arquivos/Portugol-Relatorio.pdf
+https://github.com/Eberty/ProjetoCompiladoresEbertyPhiliphe/tree/master/Arquivos/Portugol-Relatorio.pdf

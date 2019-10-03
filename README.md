@@ -21,10 +21,6 @@ Expr → Expr OpBinario Expr | OpUnario Expr | Número<br>
 OpBinario → **+** | **-** |  **\***  | **/** | **e** | **ou** | **=** | **<>** | **>** | **>=** | **<** | **<=**<br>
 OpUnario → **-** | **++** | **--** | **nao**<br>
 Número → Inteiro | Decimal<br>
-## Automato
-![alt text](https://github.com/Eberty/ProjetoCompiladoresEbertyPhiliphe/tree/master/Automato/automato.jpg)
-## Transition Table
-![alt text](https://github.com/Eberty/ProjetoCompiladoresEbertyPhiliphe/tree/master/Automato/transitionTable.png)
 
 ## Input and output
 https://github.com/Eberty/ProjetoCompiladoresEbertyPhiliphe/tree/master/Arquivos/Portugol-Relatorio.pdf
